@@ -1,0 +1,6 @@
+X:\Users\徐孟林\Desktop\bysj\DBUtility\bin\Release\YueDuLibrary.DBUtility.dll
+X:\Users\徐孟林\Desktop\bysj\DBUtility\bin\Release\MySql.Data.dll
+X:\Users\徐孟林\Desktop\bysj\DBUtility\bin\Release\System.Data.SQLite.DLL
+X:\Users\徐孟林\Desktop\bysj\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+X:\Users\徐孟林\Desktop\bysj\DBUtility\obj\Release\DBUtility.csproj.CoreCompileInputs.cache
+X:\Users\徐孟林\Desktop\bysj\DBUtility\obj\Release\YueDuLibrary.DBUtility.dll

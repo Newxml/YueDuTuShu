@@ -1,0 +1,235 @@
+C:\Bysj\YueDuTuShu\Web\bin\YueDuLibrary.Web.dll.config
+C:\Bysj\YueDuTuShu\Web\bin\YueDuLibrary.Web.dll
+C:\Bysj\YueDuTuShu\Web\bin\YueDuLibrary.Web.pdb
+C:\Bysj\YueDuTuShu\Web\bin\LTP.Accounts.dll
+C:\Bysj\YueDuTuShu\Web\bin\Maticsoft.Common.dll
+C:\Bysj\YueDuTuShu\Web\bin\Microsoft.Web.UI.WebControls.dll
+C:\Bysj\YueDuTuShu\Web\bin\YueDuLibrary.BLL.dll
+C:\Bysj\YueDuTuShu\Web\bin\YueDuLibrary.Model.dll
+C:\Bysj\YueDuTuShu\Web\bin\YueDuLibrary.DAL.dll
+C:\Bysj\YueDuTuShu\Web\bin\YueDuLibrary.DBUtility.dll
+C:\Bysj\YueDuTuShu\Web\bin\System.Data.SQLite.dll
+C:\Bysj\YueDuTuShu\Web\bin\MySql.Data.dll
+C:\Bysj\YueDuTuShu\Web\bin\YueDuLibrary.BLL.pdb
+C:\Bysj\YueDuTuShu\Web\bin\YueDuLibrary.Model.pdb
+C:\Bysj\YueDuTuShu\Web\bin\YueDuLibrary.DAL.pdb
+C:\Bysj\YueDuTuShu\Web\bin\YueDuLibrary.DBUtility.pdb
+C:\Bysj\YueDuTuShu\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Bysj\YueDuTuShu\Web\obj\Debug\YueDuLibrary.Web.Controls.CheckRight.resources
+C:\Bysj\YueDuTuShu\Web\obj\Debug\YueDuLibrary.Web.Controls.CopyRight1.resources
+C:\Bysj\YueDuTuShu\Web\obj\Debug\YueDuLibrary.Web.Global.resources
+C:\Bysj\YueDuTuShu\Web\obj\Debug\Web.csproj.GenerateResource.Cache
+C:\Bysj\YueDuTuShu\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Bysj\YueDuTuShu\Web\obj\Debug\YueDuLibrary.Web.dll
+C:\Bysj\YueDuTuShu\Web\obj\Debug\YueDuLibrary.Web.pdb
+C:\Bysj\YueDuTuShu - 副本\Web\bin\YueDuLibrary.Web.dll.config
+C:\Bysj\YueDuTuShu - 副本\Web\bin\YueDuLibrary.Web.dll
+C:\Bysj\YueDuTuShu - 副本\Web\bin\YueDuLibrary.Web.pdb
+C:\Bysj\YueDuTuShu - 副本\Web\bin\LTP.Accounts.dll
+C:\Bysj\YueDuTuShu - 副本\Web\bin\Maticsoft.Common.dll
+C:\Bysj\YueDuTuShu - 副本\Web\bin\Microsoft.Web.UI.WebControls.dll
+C:\Bysj\YueDuTuShu - 副本\Web\bin\YueDuLibrary.BLL.dll
+C:\Bysj\YueDuTuShu - 副本\Web\bin\YueDuLibrary.Model.dll
+C:\Bysj\YueDuTuShu - 副本\Web\bin\YueDuLibrary.DAL.dll
+C:\Bysj\YueDuTuShu - 副本\Web\bin\YueDuLibrary.DBUtility.dll
+C:\Bysj\YueDuTuShu - 副本\Web\bin\System.Data.SQLite.dll
+C:\Bysj\YueDuTuShu - 副本\Web\bin\MySql.Data.dll
+C:\Bysj\YueDuTuShu - 副本\Web\bin\YueDuLibrary.BLL.pdb
+C:\Bysj\YueDuTuShu - 副本\Web\bin\YueDuLibrary.Model.pdb
+C:\Bysj\YueDuTuShu - 副本\Web\bin\YueDuLibrary.DAL.pdb
+C:\Bysj\YueDuTuShu - 副本\Web\bin\YueDuLibrary.DBUtility.pdb
+C:\Bysj\YueDuTuShu - 副本\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Bysj\YueDuTuShu - 副本\Web\obj\Debug\YueDuLibrary.Web.Controls.CheckRight.resources
+C:\Bysj\YueDuTuShu - 副本\Web\obj\Debug\YueDuLibrary.Web.Controls.CopyRight1.resources
+C:\Bysj\YueDuTuShu - 副本\Web\obj\Debug\YueDuLibrary.Web.Global.resources
+C:\Bysj\YueDuTuShu - 副本\Web\obj\Debug\Web.csproj.GenerateResource.Cache
+C:\Bysj\YueDuTuShu - 副本\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Bysj\YueDuTuShu - 副本\Web\obj\Debug\YueDuLibrary.Web.dll
+C:\Bysj\YueDuTuShu - 副本\Web\obj\Debug\YueDuLibrary.Web.pdb
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\bin\YueDuLibrary.Web.dll.config
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\bin\YueDuLibrary.Web.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\bin\YueDuLibrary.Web.pdb
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\bin\LTP.Accounts.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\bin\Maticsoft.Common.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\bin\Microsoft.Web.UI.WebControls.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\bin\YueDuLibrary.BLL.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\bin\YueDuLibrary.Model.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\bin\YueDuLibrary.DAL.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\bin\YueDuLibrary.DBUtility.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\bin\System.Data.SQLite.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\bin\MySql.Data.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\bin\YueDuLibrary.BLL.pdb
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\bin\YueDuLibrary.Model.pdb
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\bin\YueDuLibrary.DAL.pdb
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\bin\YueDuLibrary.DBUtility.pdb
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\obj\Debug\YueDuLibrary.Web.Controls.CheckRight.resources
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\obj\Debug\YueDuLibrary.Web.Controls.CopyRight1.resources
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\obj\Debug\YueDuLibrary.Web.Global.resources
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\obj\Debug\Web.csproj.GenerateResource.Cache
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\obj\Debug\YueDuLibrary.Web.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\Web\obj\Debug\YueDuLibrary.Web.pdb
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\bin\YueDuLibrary.Web.dll.config
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\bin\YueDuLibrary.Web.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\bin\YueDuLibrary.Web.pdb
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\bin\LTP.Accounts.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\bin\Maticsoft.Common.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\bin\Microsoft.Web.UI.WebControls.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\bin\YueDuLibrary.BLL.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\bin\YueDuLibrary.Model.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\bin\YueDuLibrary.DAL.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\bin\YueDuLibrary.DBUtility.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\bin\System.Data.SQLite.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\bin\MySql.Data.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\bin\YueDuLibrary.BLL.pdb
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\bin\YueDuLibrary.Model.pdb
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\bin\YueDuLibrary.DAL.pdb
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\bin\YueDuLibrary.DBUtility.pdb
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\obj\Debug\YueDuLibrary.Web.Controls.CheckRight.resources
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\obj\Debug\YueDuLibrary.Web.Controls.CopyRight1.resources
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\obj\Debug\YueDuLibrary.Web.Global.resources
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\obj\Debug\Web.csproj.GenerateResource.Cache
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\obj\Debug\YueDuLibrary.Web.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\Web\obj\Debug\YueDuLibrary.Web.pdb
+X:\Users\徐孟林\Desktop\2017.12.29\Web\bin\YueDuLibrary.Web.dll.config
+X:\Users\徐孟林\Desktop\2017.12.29\Web\bin\YueDuLibrary.Web.dll
+X:\Users\徐孟林\Desktop\2017.12.29\Web\bin\YueDuLibrary.Web.pdb
+X:\Users\徐孟林\Desktop\2017.12.29\Web\bin\LTP.Accounts.dll
+X:\Users\徐孟林\Desktop\2017.12.29\Web\bin\Maticsoft.Common.dll
+X:\Users\徐孟林\Desktop\2017.12.29\Web\bin\Microsoft.Web.UI.WebControls.dll
+X:\Users\徐孟林\Desktop\2017.12.29\Web\bin\YueDuLibrary.BLL.dll
+X:\Users\徐孟林\Desktop\2017.12.29\Web\bin\YueDuLibrary.Model.dll
+X:\Users\徐孟林\Desktop\2017.12.29\Web\bin\YueDuLibrary.DAL.dll
+X:\Users\徐孟林\Desktop\2017.12.29\Web\bin\YueDuLibrary.DBUtility.dll
+X:\Users\徐孟林\Desktop\2017.12.29\Web\bin\System.Data.SQLite.dll
+X:\Users\徐孟林\Desktop\2017.12.29\Web\bin\MySql.Data.dll
+X:\Users\徐孟林\Desktop\2017.12.29\Web\bin\YueDuLibrary.BLL.pdb
+X:\Users\徐孟林\Desktop\2017.12.29\Web\bin\YueDuLibrary.Model.pdb
+X:\Users\徐孟林\Desktop\2017.12.29\Web\bin\YueDuLibrary.DAL.pdb
+X:\Users\徐孟林\Desktop\2017.12.29\Web\bin\YueDuLibrary.DBUtility.pdb
+X:\Users\徐孟林\Desktop\2017.12.29\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+X:\Users\徐孟林\Desktop\2017.12.29\Web\obj\Debug\YueDuLibrary.Web.Controls.CheckRight.resources
+X:\Users\徐孟林\Desktop\2017.12.29\Web\obj\Debug\YueDuLibrary.Web.Controls.CopyRight1.resources
+X:\Users\徐孟林\Desktop\2017.12.29\Web\obj\Debug\YueDuLibrary.Web.Global.resources
+X:\Users\徐孟林\Desktop\2017.12.29\Web\obj\Debug\Web.csproj.GenerateResource.Cache
+X:\Users\徐孟林\Desktop\2017.12.29\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+X:\Users\徐孟林\Desktop\2017.12.29\Web\obj\Debug\YueDuLibrary.Web.dll
+X:\Users\徐孟林\Desktop\2017.12.29\Web\obj\Debug\YueDuLibrary.Web.pdb
+X:\Users\徐孟林\Desktop\2017.12.30\Web\bin\YueDuLibrary.Web.dll.config
+X:\Users\徐孟林\Desktop\2017.12.30\Web\bin\YueDuLibrary.Web.dll
+X:\Users\徐孟林\Desktop\2017.12.30\Web\bin\YueDuLibrary.Web.pdb
+X:\Users\徐孟林\Desktop\2017.12.30\Web\bin\LTP.Accounts.dll
+X:\Users\徐孟林\Desktop\2017.12.30\Web\bin\Maticsoft.Common.dll
+X:\Users\徐孟林\Desktop\2017.12.30\Web\bin\Microsoft.Web.UI.WebControls.dll
+X:\Users\徐孟林\Desktop\2017.12.30\Web\bin\YueDuLibrary.BLL.dll
+X:\Users\徐孟林\Desktop\2017.12.30\Web\bin\YueDuLibrary.Model.dll
+X:\Users\徐孟林\Desktop\2017.12.30\Web\bin\YueDuLibrary.DAL.dll
+X:\Users\徐孟林\Desktop\2017.12.30\Web\bin\YueDuLibrary.DBUtility.dll
+X:\Users\徐孟林\Desktop\2017.12.30\Web\bin\System.Data.SQLite.dll
+X:\Users\徐孟林\Desktop\2017.12.30\Web\bin\MySql.Data.dll
+X:\Users\徐孟林\Desktop\2017.12.30\Web\bin\YueDuLibrary.BLL.pdb
+X:\Users\徐孟林\Desktop\2017.12.30\Web\bin\YueDuLibrary.Model.pdb
+X:\Users\徐孟林\Desktop\2017.12.30\Web\bin\YueDuLibrary.DAL.pdb
+X:\Users\徐孟林\Desktop\2017.12.30\Web\bin\YueDuLibrary.DBUtility.pdb
+X:\Users\徐孟林\Desktop\2017.12.30\Web\obj\Debug\YueDuLibrary.Web.Controls.CheckRight.resources
+X:\Users\徐孟林\Desktop\2017.12.30\Web\obj\Debug\YueDuLibrary.Web.Controls.CopyRight1.resources
+X:\Users\徐孟林\Desktop\2017.12.30\Web\obj\Debug\YueDuLibrary.Web.Global.resources
+X:\Users\徐孟林\Desktop\2017.12.30\Web\obj\Debug\Web.csproj.GenerateResource.Cache
+X:\Users\徐孟林\Desktop\2017.12.30\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+X:\Users\徐孟林\Desktop\2017.12.30\Web\obj\Debug\YueDuLibrary.Web.dll
+X:\Users\徐孟林\Desktop\2017.12.30\Web\obj\Debug\YueDuLibrary.Web.pdb
+X:\Users\徐孟林\Desktop\2017.12.30\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+X:\Users\徐孟林\Desktop\2017.12.31\Web\bin\YueDuLibrary.Web.dll.config
+X:\Users\徐孟林\Desktop\2017.12.31\Web\bin\YueDuLibrary.Web.dll
+X:\Users\徐孟林\Desktop\2017.12.31\Web\bin\YueDuLibrary.Web.pdb
+X:\Users\徐孟林\Desktop\2017.12.31\Web\bin\LTP.Accounts.dll
+X:\Users\徐孟林\Desktop\2017.12.31\Web\bin\Maticsoft.Common.dll
+X:\Users\徐孟林\Desktop\2017.12.31\Web\bin\Microsoft.Web.UI.WebControls.dll
+X:\Users\徐孟林\Desktop\2017.12.31\Web\bin\YueDuLibrary.BLL.dll
+X:\Users\徐孟林\Desktop\2017.12.31\Web\bin\YueDuLibrary.Model.dll
+X:\Users\徐孟林\Desktop\2017.12.31\Web\bin\YueDuLibrary.DAL.dll
+X:\Users\徐孟林\Desktop\2017.12.31\Web\bin\YueDuLibrary.DBUtility.dll
+X:\Users\徐孟林\Desktop\2017.12.31\Web\bin\System.Data.SQLite.dll
+X:\Users\徐孟林\Desktop\2017.12.31\Web\bin\MySql.Data.dll
+X:\Users\徐孟林\Desktop\2017.12.31\Web\bin\YueDuLibrary.BLL.pdb
+X:\Users\徐孟林\Desktop\2017.12.31\Web\bin\YueDuLibrary.Model.pdb
+X:\Users\徐孟林\Desktop\2017.12.31\Web\bin\YueDuLibrary.DAL.pdb
+X:\Users\徐孟林\Desktop\2017.12.31\Web\bin\YueDuLibrary.DBUtility.pdb
+X:\Users\徐孟林\Desktop\2017.12.31\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+X:\Users\徐孟林\Desktop\2017.12.31\Web\obj\Debug\YueDuLibrary.Web.Controls.CheckRight.resources
+X:\Users\徐孟林\Desktop\2017.12.31\Web\obj\Debug\YueDuLibrary.Web.Controls.CopyRight1.resources
+X:\Users\徐孟林\Desktop\2017.12.31\Web\obj\Debug\YueDuLibrary.Web.Global.resources
+X:\Users\徐孟林\Desktop\2017.12.31\Web\obj\Debug\Web.csproj.GenerateResource.Cache
+X:\Users\徐孟林\Desktop\2017.12.31\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+X:\Users\徐孟林\Desktop\2017.12.31\Web\obj\Debug\YueDuLibrary.Web.dll
+X:\Users\徐孟林\Desktop\2017.12.31\Web\obj\Debug\YueDuLibrary.Web.pdb
+C:\Users\xumenglin\Desktop\bysj\Web\bin\YueDuLibrary.Web.dll.config
+C:\Users\xumenglin\Desktop\bysj\Web\bin\YueDuLibrary.Web.dll
+C:\Users\xumenglin\Desktop\bysj\Web\bin\YueDuLibrary.Web.pdb
+C:\Users\xumenglin\Desktop\bysj\Web\bin\LTP.Accounts.dll
+C:\Users\xumenglin\Desktop\bysj\Web\bin\Maticsoft.Common.dll
+C:\Users\xumenglin\Desktop\bysj\Web\bin\Microsoft.Web.UI.WebControls.dll
+C:\Users\xumenglin\Desktop\bysj\Web\bin\YueDuLibrary.BLL.dll
+C:\Users\xumenglin\Desktop\bysj\Web\bin\YueDuLibrary.Model.dll
+C:\Users\xumenglin\Desktop\bysj\Web\bin\YueDuLibrary.DAL.dll
+C:\Users\xumenglin\Desktop\bysj\Web\bin\YueDuLibrary.DBUtility.dll
+C:\Users\xumenglin\Desktop\bysj\Web\bin\System.Data.SQLite.dll
+C:\Users\xumenglin\Desktop\bysj\Web\bin\MySql.Data.dll
+C:\Users\xumenglin\Desktop\bysj\Web\bin\YueDuLibrary.BLL.pdb
+C:\Users\xumenglin\Desktop\bysj\Web\bin\YueDuLibrary.Model.pdb
+C:\Users\xumenglin\Desktop\bysj\Web\bin\YueDuLibrary.DAL.pdb
+C:\Users\xumenglin\Desktop\bysj\Web\bin\YueDuLibrary.DBUtility.pdb
+C:\Users\xumenglin\Desktop\bysj\Web\obj\Debug\YueDuLibrary.Web.Controls.CheckRight.resources
+C:\Users\xumenglin\Desktop\bysj\Web\obj\Debug\YueDuLibrary.Web.Controls.CopyRight1.resources
+C:\Users\xumenglin\Desktop\bysj\Web\obj\Debug\YueDuLibrary.Web.Global.resources
+C:\Users\xumenglin\Desktop\bysj\Web\obj\Debug\Web.csproj.GenerateResource.Cache
+C:\Users\xumenglin\Desktop\bysj\Web\obj\Debug\YueDuLibrary.Web.dll
+C:\Users\xumenglin\Desktop\bysj\Web\obj\Debug\YueDuLibrary.Web.pdb
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\bin\YueDuLibrary.Web.dll.config
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\bin\YueDuLibrary.Web.dll
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\bin\YueDuLibrary.Web.pdb
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\bin\LTP.Accounts.dll
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\bin\Maticsoft.Common.dll
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\bin\Microsoft.Web.UI.WebControls.dll
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\bin\YueDuLibrary.BLL.dll
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\bin\YueDuLibrary.Model.dll
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\bin\YueDuLibrary.DAL.dll
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\bin\YueDuLibrary.DBUtility.dll
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\bin\System.Data.SQLite.dll
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\bin\MySql.Data.dll
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\bin\YueDuLibrary.BLL.pdb
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\bin\YueDuLibrary.Model.pdb
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\bin\YueDuLibrary.DAL.pdb
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\bin\YueDuLibrary.DBUtility.pdb
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\obj\Debug\YueDuLibrary.Web.Controls.CheckRight.resources
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\obj\Debug\YueDuLibrary.Web.Controls.CopyRight1.resources
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\obj\Debug\YueDuLibrary.Web.Global.resources
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\obj\Debug\Web.csproj.GenerateResource.Cache
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\obj\Debug\YueDuLibrary.Web.dll
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\obj\Debug\YueDuLibrary.Web.pdb
+X:\Users\徐孟林\Desktop\2018.1.9\bysj\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\bin\YueDuLibrary.Web.dll.config
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\bin\YueDuLibrary.Web.dll
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\bin\YueDuLibrary.Web.pdb
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\bin\LTP.Accounts.dll
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\bin\Maticsoft.Common.dll
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\bin\Microsoft.Web.UI.WebControls.dll
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\bin\YueDuLibrary.BLL.dll
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\bin\YueDuLibrary.Model.dll
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\bin\YueDuLibrary.DAL.dll
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\bin\YueDuLibrary.DBUtility.dll
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\bin\System.Data.SQLite.dll
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\bin\MySql.Data.dll
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\bin\YueDuLibrary.BLL.pdb
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\bin\YueDuLibrary.Model.pdb
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\bin\YueDuLibrary.DAL.pdb
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\bin\YueDuLibrary.DBUtility.pdb
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\obj\Debug\YueDuLibrary.Web.Controls.CheckRight.resources
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\obj\Debug\YueDuLibrary.Web.Controls.CopyRight1.resources
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\obj\Debug\YueDuLibrary.Web.Global.resources
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\obj\Debug\Web.csproj.GenerateResource.Cache
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\obj\Debug\YueDuLibrary.Web.dll
+X:\Users\徐孟林\Desktop\2018.1.10\bysj\Web\obj\Debug\YueDuLibrary.Web.pdb

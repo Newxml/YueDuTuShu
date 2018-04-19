@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <script src="js/bootstrap.js"></script>
+  
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+   </head>
+<body>
+    <div class="navbar-left">
+        &nbsp;&nbsp;&nbsp;
+        <button type="button" class="btn btn-info" data-toggle="modal" data-target="#addReadertype">添加类型</button>
+        <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#updateReadertype">修改类型</button>
+        <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#detailReadertype">详细</button>
+        <button type="button" class="btn btn-danger">删除类型 </button>
+        &nbsp;
+    </div>
+
+    <!-- 搜索框 -->
+    <div class="input-group navbar-left" style="width:300px;">
+            
+        <input type="text" class="form-control" placeholder="Search for...">
+        <span class="input-group-btn">
+        <button class="btn btn-default" type="button">Go!</button>
+        </span>
+    </div>
+    <!-- 内容 -->
+    <table class="table">
+        <thead>
+          <tr>
+            <th>&nbsp;图书条形码</th>
+            <th>图书名称</th>
+            <th>图书类型</th>
+            <th>出版社</th>
+            <th>书架</th>
+            <th>库存总数</th>
+
+        </tr>
+        </thead>
+        <tbody>
+          <tr class="active">
+            <td>&nbsp;123456789</td>
+            <td>&nbsp;人鱼自然</td>
+            <td>&nbsp;自然</td>
+            <td>&nbsp;A</td>
+            <td>&nbsp;A</td>
+            <td>&nbsp;5</td>
+         </tr>
+        </tbody>
+      </table>
+
+     
+   <!-- 添加类型弹出框 -->
+    <div class="modal fade" id="addReadertype" tabindex="-1" role="dialog" aria-labelledby="addReadertypeLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                        &times;
+                    </button>
+                    <h4 class="modal-title" id="addReadertypeLabel">
+                        添加类型
+                    </h4>
+                </div>
+                <div class="modal-body">
+                    <p>条形码</p><input type="text" class="form-control">
+                    <p>图书名称</p><input type="text" class="form-control" >
+                    <p>作者</p><input type="text" class="form-control" >
+                    <p>价格</p><input type="text" class="form-control" >
+                    <p>图书类型</p><input type="text" class="form-control">
+                    <p>出版社</p><input type="text" class="form-control">
+                    <p>书架</p><input type="text" class="form-control" >
+                    <p>库存总数</p><input type="text" class="form-control">
+                    <p>封面</p><input type="text" class="form-control">
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">关闭
+                    </button>
+                    <button type="button" class="btn btn-primary">
+                        添加
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 修改类型弹出框 -->
+    <div class="modal fade" id="updateReadertype" tabindex="-1" role="dialog" aria-labelledby="updateReadertypeLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                            &times;
+                        </button>
+                        <h4 class="modal-title" id="updateReadertypeLabel">
+                            修改类型
+                        </h4>
+                    </div>
+                    <div class="modal-body">
+                            <p>条形码</p><input type="text" class="form-control" >
+                            <p>图书名称</p><input type="text" class="form-control" >
+                            <p>作者</p><input type="text" class="form-control" >
+                            <p>价格</p><input type="text" class="form-control" >
+                            <p>图书类型</p><input type="text" class="form-control">
+                            <p>出版社</p><input type="text" class="form-control">
+                            <p>书架</p><input type="text" class="form-control" >
+                            <p>库存总数</p><input type="text" class="form-control">
+                            <p>封面</p><input type="text" class="form-control">
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">关闭
+                        </button>
+                        <button type="button" class="btn btn-warning">
+                                修改
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>    
+<!-- 详细信息 -->
+<div class="modal fade" id="detailReadertype" tabindex="-1" role="dialog" aria-labelledby="detailReadertypeLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                        &times;
+                    </button>
+                    <h4 class="modal-title" id="detailReadertypeLabel">
+                        修改类型
+                    </h4>
+                </div>
+                <div class="modal-body">
+                        <p>条形码</p><input type="text" class="form-control" >
+                        <p>图书名称</p><input type="text" class="form-control" >
+                        <p>作者</p><input type="text" class="form-control" >
+                        <p>价格</p><input type="text" class="form-control" >
+                        <p>图书类型</p><input type="text" class="form-control">
+                        <p>出版社</p><input type="text" class="form-control">
+                        <p>书架</p><input type="text" class="form-control" >
+                        <p>库存总数</p><input type="text" class="form-control">
+                        <p>封面</p><input type="text" class="form-control">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">关闭
+                    </button>
+                  
+                </div>
+            </div>
+        </div>
+    </div>    
+</body>
+</html>

@@ -1,0 +1,103 @@
+C:\Bysj\YueDuTuShu\BLL\bin\Debug\YueDuLibrary.BLL.dll
+C:\Bysj\YueDuTuShu\BLL\bin\Debug\YueDuLibrary.BLL.pdb
+C:\Bysj\YueDuTuShu\BLL\bin\Debug\Maticsoft.Common.dll
+C:\Bysj\YueDuTuShu\BLL\bin\Debug\YueDuLibrary.DAL.dll
+C:\Bysj\YueDuTuShu\BLL\bin\Debug\YueDuLibrary.Model.dll
+C:\Bysj\YueDuTuShu\BLL\bin\Debug\YueDuLibrary.DBUtility.dll
+C:\Bysj\YueDuTuShu\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Bysj\YueDuTuShu\BLL\bin\Debug\MySql.Data.dll
+C:\Bysj\YueDuTuShu\BLL\bin\Debug\YueDuLibrary.DAL.pdb
+C:\Bysj\YueDuTuShu\BLL\bin\Debug\YueDuLibrary.Model.pdb
+C:\Bysj\YueDuTuShu\BLL\bin\Debug\YueDuLibrary.DBUtility.pdb
+C:\Bysj\YueDuTuShu\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Bysj\YueDuTuShu\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Bysj\YueDuTuShu\BLL\obj\Debug\YueDuLibrary.BLL.dll
+C:\Bysj\YueDuTuShu\BLL\obj\Debug\YueDuLibrary.BLL.pdb
+C:\Bysj\YueDuTuShu - 副本\BLL\bin\Debug\YueDuLibrary.BLL.dll
+C:\Bysj\YueDuTuShu - 副本\BLL\bin\Debug\YueDuLibrary.BLL.pdb
+C:\Bysj\YueDuTuShu - 副本\BLL\bin\Debug\Maticsoft.Common.dll
+C:\Bysj\YueDuTuShu - 副本\BLL\bin\Debug\YueDuLibrary.DAL.dll
+C:\Bysj\YueDuTuShu - 副本\BLL\bin\Debug\YueDuLibrary.Model.dll
+C:\Bysj\YueDuTuShu - 副本\BLL\bin\Debug\YueDuLibrary.DBUtility.dll
+C:\Bysj\YueDuTuShu - 副本\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Bysj\YueDuTuShu - 副本\BLL\bin\Debug\MySql.Data.dll
+C:\Bysj\YueDuTuShu - 副本\BLL\bin\Debug\YueDuLibrary.DAL.pdb
+C:\Bysj\YueDuTuShu - 副本\BLL\bin\Debug\YueDuLibrary.Model.pdb
+C:\Bysj\YueDuTuShu - 副本\BLL\bin\Debug\YueDuLibrary.DBUtility.pdb
+C:\Bysj\YueDuTuShu - 副本\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Bysj\YueDuTuShu - 副本\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Bysj\YueDuTuShu - 副本\BLL\obj\Debug\YueDuLibrary.BLL.dll
+C:\Bysj\YueDuTuShu - 副本\BLL\obj\Debug\YueDuLibrary.BLL.pdb
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\BLL\bin\Debug\YueDuLibrary.BLL.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\BLL\bin\Debug\YueDuLibrary.BLL.pdb
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\BLL\bin\Debug\Maticsoft.Common.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\BLL\bin\Debug\YueDuLibrary.DAL.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\BLL\bin\Debug\YueDuLibrary.Model.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\BLL\bin\Debug\YueDuLibrary.DBUtility.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\BLL\bin\Debug\System.Data.SQLite.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\BLL\bin\Debug\MySql.Data.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\BLL\bin\Debug\YueDuLibrary.DAL.pdb
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\BLL\bin\Debug\YueDuLibrary.Model.pdb
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\BLL\bin\Debug\YueDuLibrary.DBUtility.pdb
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\BLL\obj\Debug\YueDuLibrary.BLL.dll
+E:\徐孟林\YueDuTuShu\ssss\YueDuTuShu - 副本\BLL\obj\Debug\YueDuLibrary.BLL.pdb
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\BLL\obj\Debug\YueDuLibrary.BLL.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\BLL\obj\Debug\YueDuLibrary.BLL.pdb
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\BLL\bin\Debug\YueDuLibrary.BLL.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\BLL\bin\Debug\YueDuLibrary.BLL.pdb
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\BLL\bin\Debug\Maticsoft.Common.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\BLL\bin\Debug\YueDuLibrary.DAL.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\BLL\bin\Debug\YueDuLibrary.Model.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\BLL\bin\Debug\YueDuLibrary.DBUtility.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\BLL\bin\Debug\System.Data.SQLite.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\BLL\bin\Debug\MySql.Data.dll
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\BLL\bin\Debug\YueDuLibrary.DAL.pdb
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\BLL\bin\Debug\YueDuLibrary.Model.pdb
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\BLL\bin\Debug\YueDuLibrary.DBUtility.pdb
+E:\徐孟林\YueDuTuShu\ssss\2017.12.29\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+X:\Users\徐孟林\Desktop\2017.12.29\BLL\bin\Debug\YueDuLibrary.BLL.dll
+X:\Users\徐孟林\Desktop\2017.12.29\BLL\bin\Debug\YueDuLibrary.BLL.pdb
+X:\Users\徐孟林\Desktop\2017.12.29\BLL\bin\Debug\Maticsoft.Common.dll
+X:\Users\徐孟林\Desktop\2017.12.29\BLL\bin\Debug\YueDuLibrary.DAL.dll
+X:\Users\徐孟林\Desktop\2017.12.29\BLL\bin\Debug\YueDuLibrary.Model.dll
+X:\Users\徐孟林\Desktop\2017.12.29\BLL\bin\Debug\YueDuLibrary.DBUtility.dll
+X:\Users\徐孟林\Desktop\2017.12.29\BLL\bin\Debug\System.Data.SQLite.dll
+X:\Users\徐孟林\Desktop\2017.12.29\BLL\bin\Debug\MySql.Data.dll
+X:\Users\徐孟林\Desktop\2017.12.29\BLL\bin\Debug\YueDuLibrary.DAL.pdb
+X:\Users\徐孟林\Desktop\2017.12.29\BLL\bin\Debug\YueDuLibrary.Model.pdb
+X:\Users\徐孟林\Desktop\2017.12.29\BLL\bin\Debug\YueDuLibrary.DBUtility.pdb
+X:\Users\徐孟林\Desktop\2017.12.29\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+X:\Users\徐孟林\Desktop\2017.12.29\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+X:\Users\徐孟林\Desktop\2017.12.29\BLL\obj\Debug\YueDuLibrary.BLL.dll
+X:\Users\徐孟林\Desktop\2017.12.29\BLL\obj\Debug\YueDuLibrary.BLL.pdb
+X:\Users\徐孟林\Desktop\2017.12.30\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+X:\Users\徐孟林\Desktop\2017.12.30\BLL\obj\Debug\YueDuLibrary.BLL.dll
+X:\Users\徐孟林\Desktop\2017.12.30\BLL\obj\Debug\YueDuLibrary.BLL.pdb
+X:\Users\徐孟林\Desktop\2017.12.30\BLL\bin\Debug\YueDuLibrary.BLL.dll
+X:\Users\徐孟林\Desktop\2017.12.30\BLL\bin\Debug\YueDuLibrary.BLL.pdb
+X:\Users\徐孟林\Desktop\2017.12.30\BLL\bin\Debug\Maticsoft.Common.dll
+X:\Users\徐孟林\Desktop\2017.12.30\BLL\bin\Debug\YueDuLibrary.DAL.dll
+X:\Users\徐孟林\Desktop\2017.12.30\BLL\bin\Debug\YueDuLibrary.Model.dll
+X:\Users\徐孟林\Desktop\2017.12.30\BLL\bin\Debug\YueDuLibrary.DBUtility.dll
+X:\Users\徐孟林\Desktop\2017.12.30\BLL\bin\Debug\System.Data.SQLite.dll
+X:\Users\徐孟林\Desktop\2017.12.30\BLL\bin\Debug\MySql.Data.dll
+X:\Users\徐孟林\Desktop\2017.12.30\BLL\bin\Debug\YueDuLibrary.DAL.pdb
+X:\Users\徐孟林\Desktop\2017.12.30\BLL\bin\Debug\YueDuLibrary.Model.pdb
+X:\Users\徐孟林\Desktop\2017.12.30\BLL\bin\Debug\YueDuLibrary.DBUtility.pdb
+X:\Users\徐孟林\Desktop\2017.12.30\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+X:\Users\徐孟林\Desktop\2017.12.31\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+X:\Users\徐孟林\Desktop\2017.12.31\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+X:\Users\徐孟林\Desktop\2017.12.31\BLL\obj\Debug\YueDuLibrary.BLL.dll
+X:\Users\徐孟林\Desktop\2017.12.31\BLL\obj\Debug\YueDuLibrary.BLL.pdb
+X:\Users\徐孟林\Desktop\2017.12.31\BLL\bin\Debug\YueDuLibrary.BLL.dll
+X:\Users\徐孟林\Desktop\2017.12.31\BLL\bin\Debug\YueDuLibrary.BLL.pdb
+X:\Users\徐孟林\Desktop\2017.12.31\BLL\bin\Debug\Maticsoft.Common.dll
+X:\Users\徐孟林\Desktop\2017.12.31\BLL\bin\Debug\YueDuLibrary.DAL.dll
+X:\Users\徐孟林\Desktop\2017.12.31\BLL\bin\Debug\YueDuLibrary.Model.dll
+X:\Users\徐孟林\Desktop\2017.12.31\BLL\bin\Debug\YueDuLibrary.DBUtility.dll
+X:\Users\徐孟林\Desktop\2017.12.31\BLL\bin\Debug\System.Data.SQLite.dll
+X:\Users\徐孟林\Desktop\2017.12.31\BLL\bin\Debug\MySql.Data.dll
+X:\Users\徐孟林\Desktop\2017.12.31\BLL\bin\Debug\YueDuLibrary.DAL.pdb
+X:\Users\徐孟林\Desktop\2017.12.31\BLL\bin\Debug\YueDuLibrary.Model.pdb
+X:\Users\徐孟林\Desktop\2017.12.31\BLL\bin\Debug\YueDuLibrary.DBUtility.pdb

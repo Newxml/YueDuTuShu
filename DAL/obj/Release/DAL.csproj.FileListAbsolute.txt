@@ -1,0 +1,9 @@
+X:\Users\徐孟林\Desktop\bysj\DAL\bin\Release\YueDuLibrary.DAL.dll
+X:\Users\徐孟林\Desktop\bysj\DAL\bin\Release\Maticsoft.Common.dll
+X:\Users\徐孟林\Desktop\bysj\DAL\bin\Release\MySql.Data.dll
+X:\Users\徐孟林\Desktop\bysj\DAL\bin\Release\YueDuLibrary.DBUtility.dll
+X:\Users\徐孟林\Desktop\bysj\DAL\bin\Release\YueDuLibrary.Model.dll
+X:\Users\徐孟林\Desktop\bysj\DAL\bin\Release\System.Data.SQLite.dll
+X:\Users\徐孟林\Desktop\bysj\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+X:\Users\徐孟林\Desktop\bysj\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+X:\Users\徐孟林\Desktop\bysj\DAL\obj\Release\YueDuLibrary.DAL.dll
